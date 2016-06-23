@@ -1,5 +1,6 @@
+package se.bettercode.projecteuler;
+
 import org.junit.Test;
-import se.bettercode.projecteuler.Problem1Multiples;
 
 import static org.junit.Assert.assertEquals;
 
